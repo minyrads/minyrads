@@ -1,5 +1,4 @@
-#Hi there 👋
-## I'm Pami, it's nice to meet you!
+## 🧑‍💻 I'm Pami, it's nice to meet you! 
 I'm 25, studying for a Technologist degree in Systems Analysis and Development.\
 My main interests are in Cybersecurity, Cloud Security and Data Science, which is what I'm focusing on learning at this moment, besides coding.\
 Languages: Python (Intermediate) and C++ (Learning).
