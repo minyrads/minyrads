@@ -1,6 +1,7 @@
 ## 🧑‍💻 I'm Pami, it's nice to meet you! 
-I'm 25, studying for a Technologist degree in Systems Analysis and Development.\
-My main interests are in Cybersecurity, Cloud Security and Data Science, which is what I'm focusing on learning at this moment, besides coding.\
+Aspiring Systems Analyst with hands-on Python experience, passionate about using technology to solve problems and optimize business processes. Currently seeking an internship to apply my analytical skills, learn from real-world projects, and contribute to impactful solutions. Curious, adaptable, and eager to make a difference in data-driven environments.\
+\
+Career interests: Data Analyst, Cybersecurity, Cloud Security.\
 Languages: Python (Intermediate) and C++ (Learning).
 <div align="center">
   <a href="https://github.com/minyrads">
